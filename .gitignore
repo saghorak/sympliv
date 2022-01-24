@@ -1,0 +1,7 @@
+*.bin
+*.exe
+*.jar
+*.war
+*.ear
+target
+*.log
